@@ -1,0 +1,32 @@
+[
+    {
+        "Name": "Dark Magician",
+        "Type": "Spellcaster",
+        "StarchipCost": 80000
+    },
+    {
+        "Name": "Blue-Eyes White Dragon",
+        "Type": "Dragon",
+        "StarchipCost": 999999
+    },
+    {
+        "Name": "Zombie Warrior",
+        "Type": "Zombie",
+        "StarchipCost": 35000
+    },
+    {
+        "Name": "Flame Swordsman",
+        "Type": "Warrior",
+        "StarchipCost": 45000
+    },
+    {
+        "Name": "Mystical Elf",
+        "Type": "Spellcaster",
+        "StarchipCost": 25000
+    },
+    {
+        "Name": "Thunder Dragon",
+        "Type": "Thunder",
+        "StarchipCost": 60000
+    }
+]
