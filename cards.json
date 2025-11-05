@@ -2,31 +2,52 @@
     {
         "Name": "Dark Magician",
         "Type": "Spellcaster",
-        "StarchipCost": 80000
+        "Attack": 2500,
+        "Defense": 2100,
+        "StarChips": 80000,
+        "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/dark_magician.jpg"
     },
     {
         "Name": "Blue-Eyes White Dragon",
         "Type": "Dragon",
-        "StarchipCost": 999999
-    },
-    {
-        "Name": "Zombie Warrior",
-        "Type": "Zombie",
-        "StarchipCost": 35000
+        "Attack": 3000,
+        "Defense": 2500,
+        "StarChips": 999999,
+        "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/blue_eyes_white_dragon.jpg"
     },
     {
         "Name": "Flame Swordsman",
         "Type": "Warrior",
-        "StarchipCost": 45000
+        "Attack": 1800,
+        "Defense": 1600,
+        "StarChips": 45000,
+        "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/flame_swordsman.jpg"
     },
     {
         "Name": "Mystical Elf",
         "Type": "Spellcaster",
-        "StarchipCost": 25000
+        "Attack": 800,
+        "Defense": 2000,
+        "StarChips": 25000,
+        "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/mystical_elf.jpg"
     },
     {
         "Name": "Thunder Dragon",
         "Type": "Thunder",
-        "StarchipCost": 60000
+        "Attack": 1600,
+        "Defense": 1500,
+        "StarChips": 60000,
+        "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/refs/heads/main/images/Thunder-Dragon.jpg"
+    },
+    {
+        "Name": "Zombie Warrior",
+        "Type": "Zombie",
+        "Attack": 1200,
+        "Defense": 900,
+        "StarChips": 35000,
+        "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/zombie_warrior.jpg"
     }
 ]
+
+]
+
