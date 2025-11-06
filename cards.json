@@ -13,7 +13,7 @@
         "Attack": 3000,
         "Defense": 2500,
         "StarChips": 999999,
-        "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/refs/heads/main/images/Blue-EyesWhiteDragon.jpg"
+        "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/Blue-EyesWhiteDragon.jpg"
     },
     {
         "Name": "Flame Swordsman",
@@ -37,7 +37,7 @@
         "Attack": 1600,
         "Defense": 1500,
         "StarChips": 60000,
-        "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/refs/heads/main/images/Thunder-Dragon.jpg"
+        "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/Thunder-Dragon.jpg"
     },
     {
         "Name": "Zombie Warrior",
@@ -48,4 +48,5 @@
         "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/zombie_warrior.jpg"
     }
 ]
+
 
