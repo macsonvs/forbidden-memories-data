@@ -5,7 +5,7 @@
         "Attack": 2500,
         "Defense": 2100,
         "StarChips": 80000,
-        "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/dark_magician.jpg"
+        "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/dark-magician.png"
     },
     {
         "Name": "Blue-Eyes White Dragon",
@@ -48,6 +48,7 @@
         "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/zombie_warrior.jpg"
     }
 ]
+
 
 
 
