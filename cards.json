@@ -21,7 +21,7 @@
         "Attack": 1800,
         "Defense": 1600,
         "StarChips": 45000,
-        "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/flame_swordsman.jpg"
+        "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/flame-swordsman.png"
     },
     {
         "Name": "Mystical Elf",
@@ -29,7 +29,7 @@
         "Attack": 800,
         "Defense": 2000,
         "StarChips": 25000,
-        "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/mystical_elf.jpg"
+        "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/mystical-elf.png"
     },
     {
         "Name": "Thunder Dragon",
@@ -45,9 +45,10 @@
         "Attack": 1200,
         "Defense": 900,
         "StarChips": 35000,
-        "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/zombie_warrior.jpg"
+        "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/zombie-warrior.png"
     }
 ]
+
 
 
 
