@@ -21,7 +21,7 @@
         "Attack": 1800,
         "Defense": 1600,
         "StarChips": 45000,
-        "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/blue-eyes-white-dragon.png"
+        "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/flame_swordsman.jpg"
     },
     {
         "Name": "Mystical Elf",
@@ -48,6 +48,7 @@
         "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/zombie_warrior.jpg"
     }
 ]
+
 
 
 
