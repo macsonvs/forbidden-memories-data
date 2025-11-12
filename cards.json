@@ -10,6 +10,7 @@
     {
         "Name": "Blue-Eyes White Dragon",
         "Type": "Dragon",
+        "Attribute": "Light",
         "Attack": 3000,
         "Defense": 2500,
         "StarChips": 999999,
@@ -48,6 +49,7 @@
         "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/zombie-warrior.png"
     }
 ]
+
 
 
 
