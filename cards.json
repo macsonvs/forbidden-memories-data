@@ -2,6 +2,7 @@
     {
         "Name": "Dark Magician",
         "Type": "Spellcaster",
+        "Attribute": "Darkness",
         "Attack": 2500,
         "Defense": 2100,
         "StarChips": 80000,
@@ -49,6 +50,7 @@
         "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/zombie-warrior.png"
     }
 ]
+
 
 
 
