@@ -1,5 +1,154 @@
 [
     {
+        "Name": "Blue-Eyes White Dragon",
+        "Type": "Dragon",
+        "Attribute": "Light",
+        "GuardianStars": [ "Sun", "Mars" ],
+        "Attack": 3000,
+        "Defense": 2500,
+        "StarChips": 999999,
+        "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/blue-eyes-white-dragon.png"
+    },
+    {
+        "Name": "Mystical Elf",
+        "Type": "Spellcaster",
+        "Attribute": "Light",
+        "GuardianStars": [ "Sun", "Jupiter" ],
+        "Attack": 800,
+        "Defense": 2000,
+        "StarChips": 160,
+        "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/mystical-elf.png"
+    },
+    {
+        "Name": "Hitotsu-me Giant",
+        "Type": "Beast-Warrior",
+        "Attribute": "Earth",
+        "GuardianStars": [ "Moon", "Mars" ],
+        "Attack": 1200,
+        "Defense": 1000,
+        "StarChips": 70,
+        "ImageUrl": ""
+    },
+    {
+        "Name": "Baby Dragon",
+        "Type": "Dragon",
+        "Attribute": "Wind",
+        "GuardianStars": [ "Uranus", "Sun" ],
+        "Attack": 1200,
+        "Defense": 700,
+        "StarChips": 999999,
+        "ImageUrl": ""
+    },
+    {
+        "Name": "Ryu-Kishin",
+        "Type": "Fiend",
+        "Attribute": "Dark",
+        "GuardianStars": [ "Saturn", "Sun" ],
+        "Attack": 1000,
+        "Defense": 500,
+        "StarChips": 30,
+        "ImageUrl": ""
+    },
+    {
+        "Name": "Feral Imp",
+        "Type": "Fiend",
+        "Attribute": "Darkness",
+        "GuardianStars": [ "Moon", "Jupiter" ],
+        "Attack": 1300,
+        "Defense": 1400,
+        "StarChips": 140,
+        "ImageUrl": ""
+    },
+    {
+        "Name": "Winged Dragon #1",
+        "Type": "Dragon",
+        "Attribute": "Wind",
+        "GuardianStars": [ "Saturn", "Moon" ],
+        "Attack": 1400,
+        "Defense": 1200,
+        "StarChips": 999999,
+        "ImageUrl": ""
+    },
+    {
+        "Name": "Mushroom Man",
+        "Type": "Plant",
+        "Attribute": "",
+        "GuardianStars": [ "Jupiter", "Sun" ],
+        "Attack": 800,
+        "Defense": 600,
+        "StarChips": 30,
+        "ImageUrl": ""
+    },
+    {
+        "Name": "Shadow Specter",
+        "Type": "Zombie",
+        "Attribute": "Dark",
+        "GuardianStars": [ "Moon", "Saturn" ],
+        "Attack": 500,
+        "Defense": 200,
+        "StarChips": 15,
+        "ImageUrl": ""
+    },
+    {
+        "Name": "Blackland Fire Dragon",
+        "Type": "Dragon",
+        "Attribute": "Dark",
+        "GuardianStars": [ "Mercury", "Moon" ],
+        "Attack": 1500,
+        "Defense": 800,
+        "StarChips": 80,
+        "ImageUrl": ""
+    },
+    {
+        "Name": "Sword Arm of Dragon",
+        "Type": "Dinosaur",
+        "Attribute": "Earth",
+        "GuardianStars": [ "Uranus", "Moon" ],
+        "Attack": 1750,
+        "Defense": 2030,
+        "StarChips": 1000,
+        "ImageUrl": ""
+    },
+    {
+        "Name": "Swamp Battleguard",
+        "Type": "Warrior",
+        "Attribute": "Earth",
+        "GuardianStars": [ "Mercury", "Mars" ],
+        "Attack": 1800,
+        "Defense": 1500,
+        "StarChips": 290,
+        "ImageUrl": ""
+    },
+    {
+        "Name": "Tyhone",
+        "Type": "Winged Beast",
+        "Attribute": "Wind",
+        "GuardianStars": [ "Saturn", "Venus" ],
+        "Attack": 1200,
+        "Defense": 1400,
+        "StarChips": 120,
+        "ImageUrl": ""
+    },
+    {
+        "Name": "Battle Steer",
+        "Type": "Beast-Warrior",
+        "Attribute": "",
+        "GuardianStars": [ "Moon", "Uranus" ],
+        "Attack": 1800,
+        "Defense": 1300,
+        "StarChips": 230,
+        "ImageUrl": ""
+    },
+    {
+        "Name": "Flame Swordsman",
+        "Type": "Warrior",
+        "Attribute": "Fire",
+        "Attack": 1800,
+        "Defense": 1600,
+        "StarChips": 320,
+        "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/flame-swordsman.png"
+    },
+    {
         "Name": "Dark Magician",
         "Type": "Spellcaster",
         "Attribute": "Darkness",
@@ -9,30 +158,25 @@
         "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/dark-magician.png"
     },
     {
-        "Name": "Blue-Eyes White Dragon",
-        "Type": "Dragon",
-        "Attribute": "Light",
-        "Attack": 3000,
-        "Defense": 2500,
-        "StarChips": 999999,
-        "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/blue-eyes-white-dragon.png"
-    },
-    {
-        "Name": "Flame Swordsman",
-        "Type": "Warrior",
-        "Attack": 1800,
-        "Defense": 1600,
-        "StarChips": 45000,
-        "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/flame-swordsman.png"
-    },
-    {
-        "Name": "Mystical Elf",
+        "Name": "Time Wizard",
         "Type": "Spellcaster",
-        "Attack": 800,
-        "Defense": 2000,
-        "StarChips": 25000,
-        "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/mystical-elf.png"
-    },
+        "Attribute": "Light",
+        "GuardianStars": [ "Venus", "Sun" ],
+        "Attack": 500,
+        "Defense": 400,
+        "StarChips": 999999,
+        "ImageUrl": ""
+    }
+    {
+        "Name": "Right Leg of the Forbidden One",
+        "Type": "Spellcaster",
+        "Attribute": "",
+        "GuardianStars": [ "Mercury", "Jupiter" ],
+        "Attack": 200,
+        "Defense": 300,
+        "StarChips": 999999,
+        "ImageUrl": ""
+    }
     {
         "Name": "Thunder Dragon",
         "Type": "Thunder",
@@ -48,8 +192,8 @@
         "Defense": 900,
         "StarChips": 35000,
         "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/zombie-warrior.png"
-    }
-]
+    },
+
 
 
 
