@@ -72,7 +72,7 @@
     {
         "Name": "Mushroom Man",
         "Type": "Plant",
-        "Attribute": "",
+        "Attribute": "Earth",
         "GuardianStars": [ "Jupiter", "Sun" ],
         "Attack": 800,
         "Defense": 600,
@@ -132,7 +132,7 @@
     {
         "Name": "Battle Steer",
         "Type": "Beast-Warrior",
-        "Attribute": "",
+        "Attribute": "Earth",
         "GuardianStars": [ "Moon", "Uranus" ],
         "Attack": 1800,
         "Defense": 1300,
@@ -143,19 +143,11 @@
         "Name": "Flame Swordsman",
         "Type": "Warrior",
         "Attribute": "Fire",
+        "GuardianStars": [ "Mars", "Sun" ],
         "Attack": 1800,
         "Defense": 1600,
         "StarChips": 320,
         "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/flame-swordsman.png"
-    },
-    {
-        "Name": "Dark Magician",
-        "Type": "Spellcaster",
-        "Attribute": "Darkness",
-        "Attack": 2500,
-        "Defense": 2100,
-        "StarChips": 80000,
-        "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/dark-magician.png"
     },
     {
         "Name": "Time Wizard",
@@ -166,33 +158,49 @@
         "Defense": 400,
         "StarChips": 999999,
         "ImageUrl": ""
-    }
+    },
     {
         "Name": "Right Leg of the Forbidden One",
         "Type": "Spellcaster",
-        "Attribute": "",
+        "Attribute": "Darkness",
         "GuardianStars": [ "Mercury", "Jupiter" ],
         "Attack": 200,
         "Defense": 300,
         "StarChips": 999999,
         "ImageUrl": ""
-    }
+    },
     {
         "Name": "Thunder Dragon",
         "Type": "Thunder",
+        "Attribute": "Light",
+        "GuardianStars": [ "Pluto", "Jupiter" ],
         "Attack": 1600,
         "Defense": 1500,
-        "StarChips": 60000,
+        "StarChips": 230,
         "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/thunder-dragon.png"
     },
     {
         "Name": "Zombie Warrior",
         "Type": "Zombie",
+        "Attribute": "Darkness",
+        "GuardianStars": [ "Moon", "Mars" ],
         "Attack": 1200,
         "Defense": 900,
-        "StarChips": 35000,
+        "StarChips": 60,
         "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/zombie-warrior.png"
     },
+    {
+        "Name": "Dark Magician",
+        "Type": "Spellcaster",
+        "Attribute": "Darkness",
+        "GuardianStars": [ "Mercury", "Mars" ],
+        "Attack": 2500,
+        "Defense": 2100,
+        "StarChips": 999999,
+        "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/dark-magician.png"
+    }
+
+]
 
 
 
