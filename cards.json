@@ -1,4 +1,4 @@
-[
+[[
     {
         "Name": "Blue-Eyes White Dragon",
         "Type": "Dragon",
@@ -18,23 +18,23 @@
         "Attribute": "Light",
         "Attack": 800,
         "Defense": 2000,
-        "StarChips": 160,
-        "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/mystical-elf.png",
         "GuardianStars": {
             "Primary": "Sun",
             "Secondary": "Jupiter"
-        }
+        },
+        "StarChips": 160,
+        "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/mystical-elf.png"
     },
     {
         "Name": "Hitotsu-me Giant",
         "Type": "Beast-Warrior",
         "Attribute": "Earth",
+        "Attack": 1200,
+        "Defense": 1000,
         "GuardianStars": {
             "Primary": "Moon",
             "Secondary": "Mars"
         },
-        "Attack": 1200,
-        "Defense": 1000,
         "StarChips": 70,
         "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/hitotsu-me-giant.png"
     },
@@ -42,12 +42,12 @@
         "Name": "Baby Dragon",
         "Type": "Dragon",
         "Attribute": "Wind",
+        "Attack": 1200,
+        "Defense": 700,
         "GuardianStars": {
             "Primary": "Uranus",
             "Secondary": "Sun"
         },
-        "Attack": 1200,
-        "Defense": 700,
         "StarChips": 999999,
         "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/baby-dragon.png"
     },
@@ -55,25 +55,25 @@
         "Name": "Ryu-Kishin",
         "Type": "Fiend",
         "Attribute": "Dark",
+        "Attack": 1000,
+        "Defense": 500,
         "GuardianStars": {
             "Primary": "Saturn",
             "Secondary": "Sun"
         },
-        "Attack": 1000,
-        "Defense": 500,
         "StarChips": 30,
         "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/ryu-kishin.png"
     },
     {
         "Name": "Feral Imp",
         "Type": "Fiend",
-        "Attribute": "Darkness",
+        "Attribute": "Dark",
+        "Attack": 1300,
+        "Defense": 1400,
         "GuardianStars": {
             "Primary": "Moon",
             "Secondary": "Jupiter"
         },
-        "Attack": 1300,
-        "Defense": 1400,
         "StarChips": 140,
         "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/feral-imp.png"
     },
@@ -81,12 +81,12 @@
         "Name": "Winged Dragon #1",
         "Type": "Dragon",
         "Attribute": "Wind",
+        "Attack": 1400,
+        "Defense": 1200,
         "GuardianStars": {
             "Primary": "Saturn",
             "Secondary": "Moon"
         },
-        "Attack": 1400,
-        "Defense": 1200,
         "StarChips": 999999,
         "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/winged-dragon-%231.png"
     },
@@ -94,12 +94,12 @@
         "Name": "Mushroom Man",
         "Type": "Plant",
         "Attribute": "Earth",
+        "Attack": 800,
+        "Defense": 600,
         "GuardianStars": {
             "Primary": "Jupiter",
             "Secondary": "Sun"
         },
-        "Attack": 800,
-        "Defense": 600,
         "StarChips": 30,
         "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/mushroom-man.png"
     },
@@ -107,12 +107,12 @@
         "Name": "Shadow Specter",
         "Type": "Zombie",
         "Attribute": "Dark",
+        "Attack": 500,
+        "Defense": 200,
         "GuardianStars": {
             "Primary": "Moon",
             "Secondary": "Saturn"
         },
-        "Attack": 500,
-        "Defense": 200,
         "StarChips": 15,
         "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/shadow-specter.png"
     },
@@ -120,12 +120,12 @@
         "Name": "Blackland Fire Dragon",
         "Type": "Dragon",
         "Attribute": "Dark",
+        "Attack": 1500,
+        "Defense": 800,
         "GuardianStars": {
             "Primary": "Mercury",
             "Secondary": "Moon"
         },
-        "Attack": 1500,
-        "Defense": 800,
         "StarChips": 80,
         "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/blackland-fire-dragon.png"
     },
@@ -133,12 +133,12 @@
         "Name": "Sword Arm of Dragon",
         "Type": "Dinosaur",
         "Attribute": "Earth",
+        "Attack": 1750,
+        "Defense": 2030,
         "GuardianStars": {
             "Primary": "Uranus",
             "Secondary": "Moon"
         },
-        "Attack": 1750,
-        "Defense": 2030,
         "StarChips": 1000,
         "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/sword-arm-of-dragon.png"
     },
@@ -146,12 +146,12 @@
         "Name": "Swamp Battleguard",
         "Type": "Warrior",
         "Attribute": "Earth",
+        "Attack": 1800,
+        "Defense": 1500,
         "GuardianStars": {
             "Primary": "Mercury",
             "Secondary": "Mars"
         },
-        "Attack": 1800,
-        "Defense": 1500,
         "StarChips": 290,
         "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/swamp-battleguard.png"
     },
@@ -159,12 +159,12 @@
         "Name": "Tyhone",
         "Type": "Winged Beast",
         "Attribute": "Wind",
+        "Attack": 1200,
+        "Defense": 1400,
         "GuardianStars": {
             "Primary": "Saturn",
             "Secondary": "Venus"
         },
-        "Attack": 1200,
-        "Defense": 1400,
         "StarChips": 120,
         "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/tyhone.png"
     },
@@ -172,12 +172,12 @@
         "Name": "Battle Steer",
         "Type": "Beast-Warrior",
         "Attribute": "Earth",
+        "Attack": 1800,
+        "Defense": 1300,
         "GuardianStars": {
             "Primary": "Moon",
             "Secondary": "Uranus"
         },
-        "Attack": 1800,
-        "Defense": 1300,
         "StarChips": 230,
         "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/battle-steer.png"
     },
@@ -185,12 +185,12 @@
         "Name": "Flame Swordsman",
         "Type": "Warrior",
         "Attribute": "Fire",
+        "Attack": 1800,
+        "Defense": 1600,
         "GuardianStars": {
             "Primary": "Mars",
             "Secondary": "Sun"
         },
-        "Attack": 1800,
-        "Defense": 1600,
         "StarChips": 320,
         "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/flame-swordsman.png"
     },
@@ -198,68 +198,315 @@
         "Name": "Time Wizard",
         "Type": "Spellcaster",
         "Attribute": "Light",
+        "Attack": 500,
+        "Defense": 400,
         "GuardianStars": {
             "Primary": "Venus",
             "Secondary": "Sun"
         },
-        "Attack": 500,
-        "Defense": 400,
         "StarChips": 999999,
         "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/time-wizard.png"
     },
     {
         "Name": "Right Leg of the Forbidden One",
         "Type": "Spellcaster",
-        "Attribute": "Darkness",
+        "Attribute": "Dark",
+        "Attack": 200,
+        "Defense": 300,
         "GuardianStars": {
             "Primary": "Mercury",
             "Secondary": "Jupiter"
         },
-        "Attack": 200,
-        "Defense": 300,
         "StarChips": 999999,
         "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/right-leg-of-the-forbidden-one.png"
     },
     {
-        "Name": "Thunder Dragon",
-        "Type": "Thunder",
-        "Attribute": "Light",
+        "Name": "Left Leg of the Forbidden One",
+        "Type": "Spellcaster",
+        "Attribute": "Dark",
+        "Attack": 200,
+        "Defense": 300,
         "GuardianStars": {
-            "Primary": "Pluto",
-            "Secondary": "Jupiter"
+            "Primary": "Mercury",
+            "Secondary": "Saturn"
         },
-        "Attack": 1600,
+        "StarChips": 999999,
+        "ImageUrl": ""
+    },
+    {
+        "Name": "Right Arm of the Forbidden One",
+        "Type": "Spellcaster",
+        "Attribute": "Dark",
+        "Attack": 200,
+        "Defense": 300,
+        "GuardianStars": {
+            "Primary": "Mercury",
+            "Secondary": "uranus"
+        },
+        "StarChips": 999999,
+        "ImageUrl": ""
+    },
+    {
+        "Name": "Left Arm of the Forbidden One",
+        "Type": "Spellcaster",
+        "Attribute": "Dark",
+        "Attack": 200,
+        "Defense": 300,
+        "GuardianStars": {
+            "Primary": "Mercury",
+            "Secondary": "Pluto"
+        },
+        "StarChips": 999999,
+        "ImageUrl": ""
+    },
+    {
+        "Name": "Exodia the Forbidden",
+        "Type": "Spellcaster",
+        "Attribute": "Dark",
+        "Attack": 1000,
+        "Defense": 1000,
+        "GuardianStars": {
+            "Primary": "Mercury",
+            "Secondary": "Neptune"
+        },
+        "StarChips": 999999,
+        "ImageUrl": ""
+    },
+    {
+        "Name": "Summoned Skull",
+        "Type": "Fiend",
+        "Attribute": "Dark",
+        "Attack": 2500,
+        "Defense": 1200,
+        "GuardianStars": {
+            "Primary": "Moon",
+            "Secondary": "Pluto"
+        },
+        "StarChips": 999999,
+        "ImageUrl": ""
+    },
+    {
+        "Name": "The Wicked Worm Beast",
+        "Type": "Beast",
+        "Attribute": "Earth",
+        "Attack": 1400,
+        "Defense": 700,
+        "GuardianStars": {
+            "Primary": "Uranus",
+            "Secondary": "Venus"
+        },
+        "StarChips": 60,
+        "ImageUrl": ""
+    },
+    {
+        "Name": "Skull Servant",
+        "Type": "Zombie",
+        "Attribute": "Dark",
+        "Attack": 300,
+        "Defense": 200,
+        "GuardianStars": {
+            "Primary": "Moon",
+            "Secondary": "Neptune"
+        },
+        "StarChips": 10,
+        "ImageUrl": ""
+    },
+    {
+        "Name": "Horn Imp",
+        "Type": "Fiend",
+        "Attribute": "Dark",
+        "Attack": 1300,
+        "Defense": 1000,
+        "GuardianStars": {
+            "Primary": "Moon",
+            "Secondary": "Mercury"
+        },
+        "StarChips": 80,
+        "ImageUrl": ""
+    },
+    {
+        "Name": "Battle Ox",
+        "Type": "Beast-Warrior",
+        "Attribute": "Earth",
+        "Attack": 1700,
+        "Defense": 1000,
+        "GuardianStars": {
+            "Primary": "Jupiter",
+            "Secondary": "Moon"
+        },
+        "StarChips": 999999,
+        "ImageUrl": ""
+    },
+    {
+        "Name": "Beaver Warrior",
+        "Type": "Beast-Warrior",
+        "Attribute": "Earth",
+        "Attack": 1200,
         "Defense": 1500,
-        "StarChips": 230,
-        "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/thunder-dragon.png"
+        "GuardianStars": {
+            "Primary": "Jupiter",
+            "Secondary": "Venus"
+        },
+        "StarChips": 140,
+        "ImageUrl": ""
+    },
+    {
+        "Name": "Rock Ogre Grotto",
+        "Type": "Rock",
+        "Attribute": "Earth",
+        "Attack": 800,
+        "Defense": 1200,
+        "GuardianStars": {
+            "Primary": "Uranus",
+            "Secondary": "Mercury"
+        },
+        "StarChips": 999999,
+        "ImageUrl": ""
+    },
+    {
+        "Name": "Mountain Warrior",
+        "Type": "Beast-Warrior",
+        "Attribute": "Earth",
+        "Attack": 600,
+        "Defense": 1000,
+        "GuardianStars": {
+            "Primary": "Uranus",
+            "Secondary": "Mars"
+        },
+        "StarChips": 35,
+        "ImageUrl": ""
     },
     {
         "Name": "Zombie Warrior",
         "Type": "Zombie",
-        "Attribute": "Darkness",
+        "Attribute": "Dark",
+        "Attack": 1200,
+        "Defense": 900,
         "GuardianStars": {
             "Primary": "Moon",
             "Secondary": "Mars"
         },
-        "Attack": 1200,
-        "Defense": 900,
         "StarChips": 60,
         "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/zombie-warrior.png"
     },
     {
+        "Name": "Koumori Dragon",
+        "Type": "Dragon",
+        "Attribute": "Dark",
+        "Attack": 1500,
+        "Defense": 1200,
+        "GuardianStars": {
+            "Primary": "Moon",
+            "Secondary": "Jupiter"
+        },
+        "StarChips": 140,
+        "ImageUrl": ""
+    },
+    {
+        "Name": "Two-Headed King Rex",
+        "Type": "Dinosaur",
+        "Attribute": "Earth",
+        "Attack": 1600,
+        "Defense": 1200,
+        "GuardianStars": {
+            "Primary": "Uranus",
+            "Secondary": "Neptune"
+        },
+        "StarChips": 160,
+        "ImageUrl": ""
+    },
+    {
+        "Name": "Judge Man",
+        "Type": "Warrior",
+        "Attribute": "Earth",
+        "Attack": 2200,
+        "Defense": 1500,
+        "GuardianStars": {
+            "Primary": "Sun",
+            "Secondary": "Saturn"
+        },
+        "StarChips": 1000,
+        "ImageUrl": ""
+    },
+    {
+        "Name": "Saggi the Dark Clown",
+        "Type": "Spellcaster",
+        "Attribute": "Dark",
+        "Attack": 600,
+        "Defense": 1500,
+        "GuardianStars": {
+            "Primary": "Mercury",
+            "Secondary": "Moon"
+        },
+        "StarChips": 60,
+        "ImageUrl": ""
+    },
+    {
         "Name": "Dark Magician",
         "Type": "Spellcaster",
-        "Attribute": "Darkness",
+        "Attribute": "Dark",
+        "Attack": 2500,
+        "Defense": 2100,
         "GuardianStars": {
             "Primary": "Mercury",
             "Secondary": "Mars"
         },
-        "Attack": 2500,
-        "Defense": 2100,
         "StarChips": 999999,
         "ImageUrl": "https://raw.githubusercontent.com/macsonvs/forbidden-memories-data/main/images/dark-magician.png"
+    },
+    {
+        "Name": "The Snake Hair",
+        "Type": "Zombie",
+        "Attribute": "Dark",
+        "Attack": 1500,
+        "Defense": 1200,
+        "GuardianStars": {
+            "Primary": "Moon",
+            "Secondary": "Saturn"
+        },
+        "StarChips": 140,
+        "ImageUrl": ""
+    },
+    {
+        "Name": "Gaia the Dragon Champion",
+        "Type": "Dragon",
+        "Attribute": "Wind",
+        "Attack": 2600,
+        "Defense": 2100,
+        "GuardianStars": {
+            "Primary": "Saturn",
+            "Secondary": "Mercury"
+        },
+        "StarChips": 999999,
+        "ImageUrl": ""
+    },
+    {
+        "Name": "Gaia the Fierce Knight",
+        "Type": "Warrior",
+        "Attribute": "Earth",
+        "Attack": 2300,
+        "Defense": 2100,
+        "GuardianStars": {
+            "Primary": "Mercury",
+            "Secondary": "Jupiter"
+        },
+        "StarChips": 999999,
+        "ImageUrl": ""
+    },
+    {
+        "Name": "Curse of Dragon",
+        "Type": "Dragon",
+        "Attribute": "Dark",
+        "Attack": 2000,
+        "Defense": 1500,
+        "GuardianStars": {
+            "Primary": "Saturn",
+            "Secondary": "Pluto"
+        },
+        "StarChips": 999999,
+        "ImageUrl": ""
     }
-]
+
 
 
 
